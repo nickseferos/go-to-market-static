@@ -1,1 +1,1 @@
-# go-to-market-static
+# Cultivate Go-To-Market
